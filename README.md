@@ -1,2 +1,5 @@
-# SoftwareTimer
-Software Timer library for Arduino
+## SoftwareTimer
+
+### Software Timers library for Arduino
+
+Create software timers from one hardware timer.
